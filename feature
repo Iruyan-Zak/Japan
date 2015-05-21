@@ -1,0 +1,3 @@
+class NewFeature < OldFeature
+
+end
